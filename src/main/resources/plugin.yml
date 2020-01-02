@@ -1,0 +1,6 @@
+name: HavanaDeathMessages
+version: ${project.version}
+main: com.danielgulic.havanadeathmessages.HavanaDeathMessages
+api-version: 1.13
+authors: [jellz]
+description: Havana death messages
